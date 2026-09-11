@@ -10,14 +10,14 @@ export const site = {
   url: "https://oumevents.ma", // ← À REMPLACER par votre vrai domaine
 
   /* --- Contact (À REMPLACER) --- */
-  whatsapp: "212600000000", // format international, sans + ni espaces
-  phoneDisplay: "+212 6 00 00 00 00",
+  whatsapp: "212663216393", // format international, sans + ni espaces
+  phoneDisplay: "+212 6 63 21 63 93",
   email: "contact@oumevents.ma",
-  instagram: "https://instagram.com/oumevents",
-  tiktok: "https://tiktok.com/@oumevents",
+  instagram: "https://instagram.com/prestige.elwardi.events",
+  tiktok: "https://tiktok.com/@maison.elwardi",
 
   /* --- Tarif --- */
-  priceFrom: 800,
+  priceFrom: 888,
   currency: "DH",
 
   /* --- Localisation de départ (À AJUSTER) --- */
